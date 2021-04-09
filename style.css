@@ -1,0 +1,43 @@
+body
+{
+    background-image: radial-gradient(lavender,pink,rgb(236, 236, 172),rgb(165, 215, 255) );
+    font-family: verdana;
+}
+img{
+    width:120px;
+    height:120px;
+}
+.footer
+{
+    position:fixed;
+    bottom:0;
+    line-height:2.5;
+    text-align:center;
+    background-color:slategrey;
+    color:white;
+    width: 100%;
+    font-size:20px;
+}
+
+.object
+{
+    font-size:23px;
+    margin-top:520px;
+
+}
+
+.accuracy
+{
+    font-size:23px;
+}
+
+#name
+{
+    white-space:pre-line;
+}
+
+canvas
+{
+    border:solid purple 5px;
+    box-shadow:  5px 5px 15px black;
+}
